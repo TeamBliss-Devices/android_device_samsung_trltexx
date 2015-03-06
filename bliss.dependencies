@@ -4,5 +4,11 @@
     "repository": "android_device_samsung_trlte-common",
     "target_path": "device/samsung/trlte-common",
     "revision": "lp5.0"
+  },
+  {
+    "remote": "TeamBliss-Devices",
+    "repository": "android_kernel_samsung_trlte",
+    "target_path": "kernel/samsung/trltexx",
+    "revision": "cm-12.0"
   }
 ]
