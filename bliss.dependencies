@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "TeamBliss-Devices",
+    "repository": "android_device_samsung_trlte-common",
+    "target_path": "device/samsung/trlte-common",
+	"revision": "lp5.0"
+  }
+]
