@@ -46,12 +46,12 @@ BOARD_RIL_CLASS := ../../../device/samsung/trltexx/ril
 -include vendor/samsung/trltexx/trltexx-vendor.mk
 
 # BlissPop Config Flags
-TARGET_TC_ROM := 4.8
-TARGET_TC_KERNEL := 4.10-linaro
-BLISSIFY := true
-BLISS_O3 := true
-BLISS_STRICT := true
-BLISS_GRAPHITE := true
-BLISS_KRAIT := false
+#TARGET_TC_ROM := 4.8
+#TARGET_TC_KERNEL := 4.10-linaro
+#BLISSIFY := true
+#BLISS_O3 := true
+#BLISS_STRICT := true
+#BLISS_GRAPHITE := true
+#BLISS_KRAIT := false
 WITH_DEXPREOPT=false
 
