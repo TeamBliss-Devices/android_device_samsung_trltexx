@@ -43,7 +43,7 @@ TARGET_UNIFIED_DEVICE := true
 BOARD_RIL_CLASS := ../../../device/samsung/trltexx/ril
 
 # inherit from the proprietary version
--include vendor/samsung/trltexx/BoardConfigVendor.mk
+-include vendor/samsung/trltexx/trltexx-vendor.mk
 
 # BlissPop Config Flags
 TARGET_TC_ROM := 4.8
