@@ -32,7 +32,7 @@ MHI_MODULE:
 TARGET_KERNEL_MODULES := MHI_MODULE
 
 # Kernel
-TARGET_KERNEL_VARIANT_CONFIG := apq8084_sec_trlte_eur_defconfig
+TARGET_KERNEL_CONFIG := apq8084_sec_trlte_eur_defconfig
 
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_msm
